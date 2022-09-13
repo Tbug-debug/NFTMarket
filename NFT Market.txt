@@ -1,0 +1,17 @@
+NFT Market
+
+network 버그
+
+1. MetaMask를 로그인한다.
+
+2. 맨 위에 계정(아이콘)을 누른다.
+
+3. '고급'을 누른다.
+
+4. '계정 재설정'을 누른다.
+
+5. vscode 터미널에 npx hardhat run scripts/deploy.js --network localhost 를 입력한다. (다시 초기화)
+
+6. 그럼 이제까지 올렸던 그림이 사라진다.
+
+그럼 에러가 사라진다. 이제 다시 그림을 올리면 된다.
